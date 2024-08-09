@@ -110,7 +110,6 @@ alias cs561="cd ~/Documents/umass/cs561"
 alias cs677="cd ~/Documents/umass/cs677"
 alias kgc="cd /Users/hsin-yu/Documents/intern/kangacook"
 alias tab="open . -a iterm"
-alias hsplit="osascript -e 'tell application \"iTerm2\" to tell current session of current window to split horizontally with default profile'"
 alias rlt="cd /Users/hsin-yu/Documents/intern/roulettech/"
 alias nv="nvim"
 
